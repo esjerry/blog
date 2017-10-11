@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[shing.site](shing.site)
+[shing.site](http://shing.site)
 
 You can use the [editor on GitHub](https://github.com/esjerry/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
